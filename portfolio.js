@@ -166,7 +166,7 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Full Stack Developer",
-    company: "Cliniminds India Pvt. Ltd.",
+    company: "Cliniminds",
     companylogo: "/img/icons/common/ClinimindLogo.png",
     date: "August 2021 – Present",
     desc: "I work here as Full Stack Developer and have responsibility for developing, maintaining web applications, resolving issues and implementing new features. ",
